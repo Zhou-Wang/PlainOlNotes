@@ -25,7 +25,7 @@ implements LoaderManager.LoaderCallbacks<Cursor>
     private static final int EDITOR_REQUEST_CODE = 1001;
     private CursorAdapter cursorAdapter;
 
-    @Override
+    @Override // this comment is a test for github
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
