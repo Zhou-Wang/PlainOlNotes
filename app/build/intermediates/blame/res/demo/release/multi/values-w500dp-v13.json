@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\incremental\\mergeDemoReleaseResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\values-w500dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 54,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    }
+]

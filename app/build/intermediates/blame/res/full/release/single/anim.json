@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhouWang\\Desktop\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\full\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ZhouWang\\.android\\build-cache\\c14a23a7fa037e3d84900a883d1bd586b923c7c7\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]
